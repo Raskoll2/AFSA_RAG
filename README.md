@@ -5,3 +5,6 @@ A RAG system for the Australian Financial Security Authority. It scrapes their p
 The API doesn't include small model filtering, just the basic RAG functionality. It uses Flask and is not particularly production ready.
 
 `pip install torch sentence_transformers openai bs4 requests flask`
+
+# NOT ENDORSED BY AFSA OR THE AUSTRALIAN GOVERNMENT
+Neither entity is responsible for this code, it's a prototype only.
